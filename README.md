@@ -1,7 +1,6 @@
+[![MasterHead](https://assets.website-files.com/61dfdacdca6b798263b6d0fd/630e02b876e726270cb2ca52_githubbackground.jpg)](https://www.platypus-ideas.com/project/visual-design)
 <h1 align="center">Hey there, I'm Roman Aebi</h1>
 <h3 align="center">I'm a games programmer student from Switzerland</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maybebool" alt="maybebool" /></a> </p>
 
 - 🌱 I’m currently learning **Unity, UE5**
 
