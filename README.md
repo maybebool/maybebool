@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Ataraxia and TrigoMath, two VR-Applications in Unity](https://www.cenprom.com/)
 
-- 🌱 I’m currently learning **KMP (Kotlin Multi-Platform)**
+- 🌱 I’m currently learning **Data Science with Python | Pandas | Seaborn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
