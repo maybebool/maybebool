@@ -1,12 +1,12 @@
 [![MasterHead](https://assets.website-files.com/61dfdacdca6b798263b6d0fd/630e02b876e726270cb2ca52_githubbackground.jpg)](https://www.platypus-ideas.com/project/visual-design)
 <h1 align="center">Hi 👋, I'm Roman</h1>
-<h3 align="center">A passionate XR/Game Developer from Switzerland</h3>
+<h3 align="center">A passionate Unity Software Engineer from Switzerland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maybebool&label=Profile%20views&color=0e75b6&style=flat" alt="maybebool" /> </p>
 
 - 🔭 I’m currently working on [Ataraxia and TrigoMath, two VR-Applications in Unity](https://www.cenprom.com/)
 
-- 🌱 I’m currently learning **Data Science with Python | Pandas | Seaborn**
+- 🌱 I’m currently learning **Data Science with ML & AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
