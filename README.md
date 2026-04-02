@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/background.png" alt="Banner" width="800">
+</p>
+
 <h1 align="center">Hi 👋, I'm Roman</h1>
 <h3 align="center">A passionate Software Engineer and Data Scientist from Switzerland</h3>
 
