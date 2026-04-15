@@ -14,8 +14,8 @@
 <h3 align="left">Connect with me:</h3>
 <table>
   <tr>
-    <td><a href="https://linkedin.com/in/romanaebi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="80" alt="LinkedIn"/></a></td>
-    <td><a href="https://www.behance.net/romanaebi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="80" alt="Behance"/></a></td>
+    <td><a href="https://linkedin.com/in/romanaebi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" alt="LinkedIn"/></a></td>
+    <td><a href="https://www.behance.net/romanaebi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40" alt="Behance"/></a></td>
   </tr>
 </table>
 
